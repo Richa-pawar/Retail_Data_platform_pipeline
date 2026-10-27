@@ -1,0 +1,32 @@
+{
+    "errors": [
+        {
+            "message": "This app is not approved to access the Customer object. See https://shopify.dev/docs/apps/launch/protected-customer-data for more details.",
+            "locations": [
+                {
+                    "line": 4,
+                    "column": 2
+                }
+            ],
+            "extensions": {
+                "code": "ACCESS_DENIED",
+                "documentation": "https://shopify.dev/docs/apps/launch/protected-customer-data"
+            },
+            "path": [
+                "customers"
+            ]
+        }
+    ],
+    "data": null,
+    "extensions": {
+        "cost": {
+            "requestedQueryCost": 9,
+            "actualQueryCost": 2,
+            "throttleStatus": {
+                "maximumAvailable": 2000.0,
+                "currentlyAvailable": 1998,
+                "restoreRate": 100.0
+            }
+        }
+    }
+}

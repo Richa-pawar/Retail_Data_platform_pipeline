@@ -1,0 +1,422 @@
+{
+    "data": {
+        "products": {
+            "edges": [
+                {
+                    "node": {
+                        "id": "gid://shopify/Product/15448765530339",
+                        "title": "The Inventory Not Tracked Snowboard",
+                        "status": "ACTIVE",
+                        "vendor": "Retail Data Platform",
+                        "productType": "snowboard",
+                        "variants": {
+                            "edges": [
+                                {
+                                    "node": {
+                                        "id": "gid://shopify/ProductVariant/67810885042403",
+                                        "price": "949.95",
+                                        "inventoryQuantity": 0
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "id": "gid://shopify/Product/15448765563107",
+                        "title": "Gift Card",
+                        "status": "ACTIVE",
+                        "vendor": "Snowboard Vendor",
+                        "productType": "giftcard",
+                        "variants": {
+                            "edges": [
+                                {
+                                    "node": {
+                                        "id": "gid://shopify/ProductVariant/67810885533923",
+                                        "price": "10.00",
+                                        "inventoryQuantity": 0
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "id": "gid://shopify/ProductVariant/67810885566691",
+                                        "price": "25.00",
+                                        "inventoryQuantity": 0
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "id": "gid://shopify/ProductVariant/67810885599459",
+                                        "price": "50.00",
+                                        "inventoryQuantity": 0
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "id": "gid://shopify/ProductVariant/67810885632227",
+                                        "price": "100.00",
+                                        "inventoryQuantity": 0
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "id": "gid://shopify/Product/15448765595875",
+                        "title": "The Draft Snowboard",
+                        "status": "DRAFT",
+                        "vendor": "Snowboard Vendor",
+                        "productType": "snowboard",
+                        "variants": {
+                            "edges": [
+                                {
+                                    "node": {
+                                        "id": "gid://shopify/ProductVariant/67810885140707",
+                                        "price": "2629.95",
+                                        "inventoryQuantity": 20
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "id": "gid://shopify/Product/15448765628643",
+                        "title": "The Minimal Snowboard",
+                        "status": "ACTIVE",
+                        "vendor": "Retail Data Platform",
+                        "productType": "",
+                        "variants": {
+                            "edges": [
+                                {
+                                    "node": {
+                                        "id": "gid://shopify/ProductVariant/67810885730531",
+                                        "price": "885.95",
+                                        "inventoryQuantity": 50
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "id": "gid://shopify/Product/15448765661411",
+                        "title": "The Archived Snowboard",
+                        "status": "ARCHIVED",
+                        "vendor": "Snowboard Vendor",
+                        "productType": "snowboard",
+                        "variants": {
+                            "edges": [
+                                {
+                                    "node": {
+                                        "id": "gid://shopify/ProductVariant/67810885304547",
+                                        "price": "629.95",
+                                        "inventoryQuantity": 50
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "id": "gid://shopify/Product/15448765694179",
+                        "title": "The Collection Snowboard: Hydrogen",
+                        "status": "ACTIVE",
+                        "vendor": "Hydrogen Vendor",
+                        "productType": "snowboard",
+                        "variants": {
+                            "edges": [
+                                {
+                                    "node": {
+                                        "id": "gid://shopify/ProductVariant/67810885075171",
+                                        "price": "600.00",
+                                        "inventoryQuantity": 50
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "id": "gid://shopify/Product/15448765726947",
+                        "title": "The Out of Stock Snowboard",
+                        "status": "ACTIVE",
+                        "vendor": "Retail Data Platform",
+                        "productType": "snowboard",
+                        "variants": {
+                            "edges": [
+                                {
+                                    "node": {
+                                        "id": "gid://shopify/ProductVariant/67810885501155",
+                                        "price": "885.95",
+                                        "inventoryQuantity": 0
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "id": "gid://shopify/Product/15448765759715",
+                        "title": "The Compare at Price Snowboard",
+                        "status": "ACTIVE",
+                        "vendor": "Retail Data Platform",
+                        "productType": "snowboard",
+                        "variants": {
+                            "edges": [
+                                {
+                                    "node": {
+                                        "id": "gid://shopify/ProductVariant/67810885107939",
+                                        "price": "785.95",
+                                        "inventoryQuantity": 10
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "id": "gid://shopify/Product/15448765792483",
+                        "title": "The Complete Snowboard",
+                        "status": "ACTIVE",
+                        "vendor": "Snowboard Vendor",
+                        "productType": "snowboard",
+                        "variants": {
+                            "edges": [
+                                {
+                                    "node": {
+                                        "id": "gid://shopify/ProductVariant/67810885337315",
+                                        "price": "699.95",
+                                        "inventoryQuantity": 10
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "id": "gid://shopify/ProductVariant/67810885370083",
+                                        "price": "699.95",
+                                        "inventoryQuantity": 10
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "id": "gid://shopify/ProductVariant/67810885402851",
+                                        "price": "699.95",
+                                        "inventoryQuantity": 10
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "id": "gid://shopify/ProductVariant/67810885435619",
+                                        "price": "699.95",
+                                        "inventoryQuantity": 10
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "id": "gid://shopify/ProductVariant/67810885468387",
+                                        "price": "699.95",
+                                        "inventoryQuantity": 10
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "id": "gid://shopify/Product/15448765825251",
+                        "title": "The Videographer Snowboard",
+                        "status": "ACTIVE",
+                        "vendor": "Retail Data Platform",
+                        "productType": "snowboard",
+                        "variants": {
+                            "edges": [
+                                {
+                                    "node": {
+                                        "id": "gid://shopify/ProductVariant/67810885697763",
+                                        "price": "885.95",
+                                        "inventoryQuantity": 50
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "id": "gid://shopify/Product/15448765858019",
+                        "title": "The Hidden Snowboard",
+                        "status": "ACTIVE",
+                        "vendor": "Snowboard Vendor",
+                        "productType": "snowboard",
+                        "variants": {
+                            "edges": [
+                                {
+                                    "node": {
+                                        "id": "gid://shopify/ProductVariant/67810885271779",
+                                        "price": "749.95",
+                                        "inventoryQuantity": 50
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "id": "gid://shopify/Product/15448765890787",
+                        "title": "Selling Plans Ski Wax",
+                        "status": "ACTIVE",
+                        "vendor": "Retail Data Platform",
+                        "productType": "accessories",
+                        "variants": {
+                            "edges": [
+                                {
+                                    "node": {
+                                        "id": "gid://shopify/ProductVariant/67810885173475",
+                                        "price": "24.95",
+                                        "inventoryQuantity": 10
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "id": "gid://shopify/ProductVariant/67810885206243",
+                                        "price": "49.95",
+                                        "inventoryQuantity": 10
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "id": "gid://shopify/ProductVariant/67810885239011",
+                                        "price": "9.95",
+                                        "inventoryQuantity": 10
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "id": "gid://shopify/Product/15448765923555",
+                        "title": "The Multi-location Snowboard",
+                        "status": "ACTIVE",
+                        "vendor": "Retail Data Platform",
+                        "productType": "snowboard",
+                        "variants": {
+                            "edges": [
+                                {
+                                    "node": {
+                                        "id": "gid://shopify/ProductVariant/67810885828835",
+                                        "price": "729.95",
+                                        "inventoryQuantity": 100
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "id": "gid://shopify/Product/15448765956323",
+                        "title": "The 3p Fulfilled Snowboard",
+                        "status": "ACTIVE",
+                        "vendor": "Retail Data Platform",
+                        "productType": "snowboard",
+                        "variants": {
+                            "edges": [
+                                {
+                                    "node": {
+                                        "id": "gid://shopify/ProductVariant/67810885861603",
+                                        "price": "2629.95",
+                                        "inventoryQuantity": 20
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "id": "gid://shopify/Product/15448765989091",
+                        "title": "The Multi-managed Snowboard",
+                        "status": "ACTIVE",
+                        "vendor": "Multi-managed Vendor",
+                        "productType": "snowboard",
+                        "variants": {
+                            "edges": [
+                                {
+                                    "node": {
+                                        "id": "gid://shopify/ProductVariant/67810885927139",
+                                        "price": "629.95",
+                                        "inventoryQuantity": 100
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "id": "gid://shopify/Product/15448766021859",
+                        "title": "The Collection Snowboard: Oxygen",
+                        "status": "ACTIVE",
+                        "vendor": "Hydrogen Vendor",
+                        "productType": "snowboard",
+                        "variants": {
+                            "edges": [
+                                {
+                                    "node": {
+                                        "id": "gid://shopify/ProductVariant/67810885959907",
+                                        "price": "1025.00",
+                                        "inventoryQuantity": 50
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "id": "gid://shopify/Product/15448766054627",
+                        "title": "The Collection Snowboard: Liquid",
+                        "status": "ACTIVE",
+                        "vendor": "Hydrogen Vendor",
+                        "productType": "snowboard",
+                        "variants": {
+                            "edges": [
+                                {
+                                    "node": {
+                                        "id": "gid://shopify/ProductVariant/67810886058211",
+                                        "price": "749.95",
+                                        "inventoryQuantity": 50
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    "extensions": {
+        "cost": {
+            "requestedQueryCost": 51,
+            "actualQueryCost": 10,
+            "throttleStatus": {
+                "maximumAvailable": 2000.0,
+                "currentlyAvailable": 1990,
+                "restoreRate": 100.0
+            }
+        }
+    }
+}
